@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
+      "projectUniqueName": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
       "projectName": "program001-vypis-rady",
-      "projectPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
+      "projectPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
       "packagesPath": "/Users/adam/.nuget/packages/",
-      "outputPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/",
+      "outputPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adam/.nuget/NuGet/NuGet.Config"
