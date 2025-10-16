@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/bin/Debug/net9.0/program002-soucet-cifer
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/bin/Debug/net9.0/program002-soucet-cifer.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/bin/Debug/net9.0/program002-soucet-cifer.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/bin/Debug/net9.0/program002-soucet-cifer.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/bin/Debug/net9.0/program002-soucet-cifer.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/refint/program002-soucet-cifer.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/program002-soucet-cifer.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program002-soucet-cifer/obj/Debug/net9.0/ref/program002-soucet-cifer.dll

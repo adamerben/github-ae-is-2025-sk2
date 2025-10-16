@@ -1,6 +1,4 @@
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady
-/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.deps.json
-/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.runtimeconfig.json
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.dll
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.pdb
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,5 +9,7 @@
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.dll
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/refint/program001-vypis-rady.dll
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.runtimeconfig.json
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.genruntimeconfig.cache
 /Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/ref/program001-vypis-rady.dll
