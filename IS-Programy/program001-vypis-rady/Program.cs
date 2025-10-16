@@ -49,6 +49,19 @@ while (again == "a")
     Console.WriteLine("První číslo: {0}; Poslední číslo: {1}; Diference: {2}", first, last, step);
     Console.WriteLine("================================");
 
+    // Výpis číselné řady
+    Console.WriteLine();
+    Console.WriteLine("================================");
+    Console.WriteLine("Výpis číselné řady:");
+
+    int current = first;
+    while (current <= last) {
+        Console.WriteLine(current);
+        current += step;
+     }
+
+
+
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte 'a'");
     again = Console.ReadLine();
