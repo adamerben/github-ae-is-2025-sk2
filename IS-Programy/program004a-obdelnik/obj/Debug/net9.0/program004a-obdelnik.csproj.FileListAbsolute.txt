@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/refint/program004a-obdelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/ref/program004a-obdelnik.dll
