@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
-      "projectName": "program001-vypis-rady",
-      "projectPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/program001-vypis-rady.csproj",
+      "projectUniqueName": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program003a-serazeni-dvou-cisel/program003a-serazeni-dvou-cisel.csproj",
+      "projectName": "program003a-serazeni-dvou-cisel",
+      "projectPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program003a-serazeni-dvou-cisel/program003a-serazeni-dvou-cisel.csproj",
       "packagesPath": "/Users/adam/.nuget/packages/",
-      "outputPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program001-vypis-rady/obj/",
+      "outputPath": "/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program003a-serazeni-dvou-cisel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adam/.nuget/NuGet/NuGet.Config"
