@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/refint/program004b-pravouhly-trojuhelnik.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/ref/program004b-pravouhly-trojuhelnik.dll
