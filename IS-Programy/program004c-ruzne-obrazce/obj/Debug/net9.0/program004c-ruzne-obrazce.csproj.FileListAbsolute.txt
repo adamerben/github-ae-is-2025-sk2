@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/bin/Debug/net9.0/program004c-ruzne-obrazce
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/bin/Debug/net9.0/program004c-ruzne-obrazce.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/bin/Debug/net9.0/program004c-ruzne-obrazce.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/bin/Debug/net9.0/program004c-ruzne-obrazce.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/bin/Debug/net9.0/program004c-ruzne-obrazce.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/refint/program004c-ruzne-obrazce.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/ref/program004c-ruzne-obrazce.dll
