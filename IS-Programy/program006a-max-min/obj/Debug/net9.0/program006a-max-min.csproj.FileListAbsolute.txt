@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/refint/program006a-max-min.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/ref/program006a-max-min.dll
