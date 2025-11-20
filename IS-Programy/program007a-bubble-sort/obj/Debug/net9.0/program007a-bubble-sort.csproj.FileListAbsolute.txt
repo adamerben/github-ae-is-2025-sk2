@@ -1,0 +1,15 @@
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.deps.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.runtimeconfig.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfoInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfo.cs
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.csproj.CoreCompileInputs.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.sourcelink.json
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/refint/program007a-bubble-sort.dll
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.genruntimeconfig.cache
+/Users/adam/Documents/Škola/IS/github-ae-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/ref/program007a-bubble-sort.dll
