@@ -82,6 +82,54 @@ while (again == "a")
     Console.WriteLine("======================================");
 
 
+    // vykreslovani presypacich hodin
+    if (max >= 3)
+    {
+        Console.WriteLine();
+        Console.WriteLine("=============================");
+        Console.WriteLine();
+        Console.WriteLine($"Přespací hodiny o velikosti {max}");
+        Console.WriteLine();
+
+
+        // tento cyklus se stara o to aby se vykreslil správný počet řádků
+        for (int i = 0; i < max; i++)
+        {
+            int spaces, stars;
+
+            if (i < max / 2)
+            {
+             spaces = i;
+             stars = max - 2 * i;   
+            } else
+            {
+                spaces = max - i - 1;
+                if (max % 2 == 1)
+                {
+                    stars = 2 * (i - max / 2) + 1;
+                } else
+                {
+                    stars = 2 * (i - max / 2) + 2;
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            // vykresleni mezer pro kazdy radek
+            for (int sp = 0; sp < spaces; sp++)
+            {
+                Console.Write(" ");
+            }
+            // vykresleni hvezdicek pro kazdy radek
+            for (int st = 0; st < stars; st++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    } else
+    {
+        Console.WriteLine("Maximum je menší než 3 => obrazec se nebude vykreslovat");
+    }
+
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
