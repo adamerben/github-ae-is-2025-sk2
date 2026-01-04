@@ -3,11 +3,11 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("* Převod z desítkové do binární (dvojkové) soustavy **");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
-    Console.WriteLine("************* Tomáš Žižka ******************");
-    Console.WriteLine("************** 2.10.2025 *******************");
+    Console.WriteLine("************* Adam Erben ******************");
+    Console.WriteLine("************** 27.11.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
